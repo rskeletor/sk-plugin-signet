@@ -1,0 +1,11 @@
+{
+  "name": "sk-plugin-signet",
+  "version": "1.0.0",
+  "description": "Signal K plugin to read Signet Marine data",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "rich kennedy <rskeletor@gmail.com> (https://github.com/rskeletor)",
+  "license": "Apache-2.0"
+}
