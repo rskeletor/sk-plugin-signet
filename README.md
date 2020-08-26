@@ -5,6 +5,6 @@ SK python plugin to read Signet data
 
 - clone the plugin from Github
 - `npm link` in the plugin directory
-- `npm link sk-plugin-python-demo` in your server directory
+- `npm link sk-plugin-signet` in your server directory
 
 
